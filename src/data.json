@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "make": "Chevrolet",
+        "body": "coupe",
+        "price": 45323,
+        "year": 2020,
+        "manufacturer": "8656478",
+        "dealer": "7640976"
+    },
+    {
+        "id": 2,
+        "make": "Buick",
+        "body": "sedan",
+        "price": 25422,
+        "year": 2016,
+        "manufacturer": "8656478",
+        "dealer": "7640976"
+    },
+    {
+        "id": 3,
+        "make": "Porsche",
+        "body": "SUV",
+        "price": 77693,
+        "year": 2018,
+        "manufacturer": "8656478",
+        "dealer": "7640976"
+    },
+    {
+        "id": 5,
+        "make": "Audi",
+        "body": "SUV",
+        "price": 12242,
+        "year": 2011,
+        "manufacturer": "87656776",
+        "dealer": "p986576u7i"
+    },
+    {
+        "id": 6,
+        "make": "Chevrolet",
+        "body": "coupe",
+        "price": 145323,
+        "year": 2023,
+        "manufacturer": "87656776",
+        "dealer": "p986576u7i"
+    },
+    {
+        "id": 7,
+        "make": "Chevrolet",
+        "body": "SUV",
+        "price": 434,
+        "year": 2003,
+        "manufacturer": "87656776",
+        "dealer": "p986576u7i"
+    },
+    {
+        "id": 8,
+        "make": "Porsche",
+        "body": "Coupe",
+        "price": 277693,
+        "year": 2023,
+        "manufacturer": "87656776",
+        "dealer": "p986576u7i"
+    },
+    {
+        "id": 9,
+        "make": "Audi",
+        "body": "sedan",
+        "price": 82242,
+        "year": 2019,
+        "manufacturer": "987670864589",
+        "dealer": "p987348"
+    },
+    {
+        "id": 10,
+        "make": "Chevrolet",
+        "body": "coupe",
+        "price": 45323,
+        "year": 2020,
+        "manufacturer": "09854678",
+        "dealer": "ki543678op9i"
+    }
+]
