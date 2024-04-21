@@ -7,15 +7,11 @@
 
 <template>
   <main class='container'>
-    <div class='links'>
-      <a href='/'>Home</a>
-      <a href='/about'>About</a>
-    </div>
     <h1>Our Cars</h1>
     <div class='cards'>
       <div v-for='car in cars' :key='car.id' class='card'>
-        <h1>{{car.make}}</h1>
-        <p>${{car.price}}</p>
+        <h1>{{ car.make }}</h1>
+        <p>${{ car.price }}</p>
       </div>
     </div>
   </main>
@@ -37,11 +33,4 @@
     cursor: pointer;
     margin-bottom: 20px;
   }
-  .links {
-    padding: 20px
-  }
-  .links a {
-    margin: 0 5px
-  }
-
 </style>
