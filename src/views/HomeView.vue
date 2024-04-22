@@ -26,7 +26,7 @@
     justify-content: center;
   }
   .card {
-    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.207);
+    box-shadow: 1px 1px 10px rgba(152, 152, 152, 0.394);
     padding: 15px;
     width: 150px;
     margin-right: 15px;
