@@ -21,9 +21,11 @@
 			<p>Price: {{car.price}}</p>
 			<p>Year: {{car.year}}</p>
 			<button @click="router.back()">Go Back</button>
+			<RouterView />
 		</div>
 		<div v-else>
 			<h1>Car Not Found</h1>
 		</div>
 	</div>
 </template>
+
